@@ -2,5 +2,5 @@
 title: Welcome to my blog
 ---
 
-#Homepage Comin
-###Etc.
+# Homepage Comin
+### Etc.
